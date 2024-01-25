@@ -1,0 +1,21 @@
+{
+  "name": "api-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "metascraper": "^5.43.3",
+    "metascraper-description": "^5.43.3",
+    "metascraper-image": "^5.43.3",
+    "metascraper-title": "^5.43.3",
+    "open-graph-scraper": "^6.3.2"
+  }
+}
